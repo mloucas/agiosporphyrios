@@ -1,3 +1,3 @@
 # New Blog Post!
 
-=> images/simonopetra.png
+=> /images/simonopetra.png Image of Simonopetra
